@@ -1,0 +1,23 @@
+<html>
+<head>
+	<!-- link jQuery -->
+	<script src="jquery-1.11.1.js"></script>
+	<style>
+		#code{
+			position:relative;
+		}	
+		</style>
+</head>
+<body>
+	<div id="code">coding ~ </div>
+	<div id="target">Hello, world!</div>
+	<script>
+		// getting disappeared
+		$('#code').animate({
+			opacity : 0.25,
+			left : '+=100',
+			height : 'toggle'
+		}, 2000);
+	</script>
+</body>
+</html>
