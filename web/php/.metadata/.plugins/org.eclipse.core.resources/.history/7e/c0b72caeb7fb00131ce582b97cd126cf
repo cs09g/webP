@@ -1,0 +1,6 @@
+<?php 
+    function printNickName($nickName, $phone){
+        print($nickName.','.$phone.'<br />');
+    }
+    printNickName('chase', '1234');
+?>

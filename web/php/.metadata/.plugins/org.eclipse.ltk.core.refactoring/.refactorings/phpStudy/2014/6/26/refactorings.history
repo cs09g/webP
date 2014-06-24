@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;phpStudy/roop.php&apos; to &apos;loop.php&apos;" description="Rename resource &apos;roop.php&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="roop.php" name="loop.php" stamp="1403608849288" updateReferences="true"/>
+</session>

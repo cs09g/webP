@@ -1,0 +1,7 @@
+<?php
+$i=0; 
+while(true){
+    echo 'test';
+    $i++;
+    if($i == 10) break;
+} ?>

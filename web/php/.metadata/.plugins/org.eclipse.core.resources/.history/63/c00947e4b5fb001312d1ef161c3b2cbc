@@ -1,0 +1,38 @@
+<?php 
+$arr1 = array(
+    'title'=>'JavaScript',
+    'content'=>'javascript is...'
+);
+$arr2 = array(
+    'title'=>'CSS',
+    'content'=>'CSS is...'
+);
+$arr3 = array(
+    'title'=>'HTML',
+    'content'=>'HTML is...'
+);
+
+$arr = array($arr1, $arr2, $arr3);
+
+?>
+
+<html>
+    <body>
+        <ul>
+            <?php 
+            for($i=0;$i<count($arr);$i++){
+            ?>
+            <li><a href="./phpFinal.php?id=<?=$i?>">
+                <?php 
+                echo $arr[$i]['title'];
+                ?>
+            </a></li>
+            <?php 
+            }
+            ?>
+        </ul>
+        <?php
+            echo $arr[$_GET['id']]['content']; 
+        ?>
+    </body>
+</html>

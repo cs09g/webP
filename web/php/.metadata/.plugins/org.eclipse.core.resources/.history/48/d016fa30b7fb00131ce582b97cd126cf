@@ -1,0 +1,12 @@
+<?php 
+    function printNickName($nickName){
+        print($nickname.'<br />');
+    }
+    printNickName();
+    printNickName();
+    printNickName();
+    printNickName();
+    printNickName();
+    printNickName();
+    printNickName();    
+?>

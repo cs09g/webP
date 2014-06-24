@@ -1,0 +1,6 @@
+<?php 
+$arr = array('HTML', 'CSS', 'JavaScript');
+for($i=0;$i<3, $i++){
+    echo $arr[$i]."<br />";
+}
+?>

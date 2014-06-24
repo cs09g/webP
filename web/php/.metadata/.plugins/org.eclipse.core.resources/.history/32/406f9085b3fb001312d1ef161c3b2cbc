@@ -1,0 +1,7 @@
+<?php 
+$arr = array(
+    'title'=>'JavaScript',
+    'content'=>'javascript is...'
+);
+echo $arr[0];
+?>

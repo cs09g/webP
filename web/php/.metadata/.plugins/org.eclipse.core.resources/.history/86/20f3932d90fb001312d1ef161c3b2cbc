@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <style>
+            body{
+                color:red;
+            }
+        </style>
+    </head>
+    <body>
+        <?php  
+        
+            if($_GET['id'] == 'a'){
+                echo "aa";
+            }
+            else if($_GET['id'] == 'b'){
+                echo "bb";
+            }
+            else if($_GET['id'] == 'c'){
+                echo "cc";
+            }
+            
+        ?>
+    </body>
+</html>

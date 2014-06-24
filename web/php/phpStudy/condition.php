@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <ul>
+            <li><a href = "./condition.php?id=a">1</a></li>
+            <li><a href = "./condition.php?id=b">2</a></li>
+            <li><a href = "./condition.php?id=c">3</a></li>
+            <li><a href = "./condition.php?id=d">4</a></li>
+        </ul>
+        
+        <?php  
+        if($_GET['id'] == 'a'){ echo "aa"; }
+        else if($_GET['id'] == 'b'){ echo "bb"; }
+        else if($_GET['id'] == 'c'){ echo "cc"; }
+        else if($_GET['id'] == 'd'){ echo "dd"; }
+        ?>
+    </body>
+</html>

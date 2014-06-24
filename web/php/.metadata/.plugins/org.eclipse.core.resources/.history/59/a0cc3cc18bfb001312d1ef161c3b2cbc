@@ -1,0 +1,11 @@
+<?php 
+
+$a = $_GET['a'];
+$b = $_GET['b'];
+
+echo "a is".$a;
+echo "b is".$b;
+
+echo "sum : ".($a + $b);
+
+?>
