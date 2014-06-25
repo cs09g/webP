@@ -1,0 +1,8 @@
+<?php 
+// mysql -hlocalhost -uroot -pSQLseulgi1720; 
+mysql_connect('localhost', 'root', 'SQLseulgi1720');
+// use chase
+mysql_select_db('chase');
+// select * from topic where id = 5;
+mysql_query("select * from topic where id = 5");
+?>
