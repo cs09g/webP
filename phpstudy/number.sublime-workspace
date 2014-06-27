@@ -1,0 +1,200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/csg/Desktop/OT_web/web/php/phpStudy/condition.php",
+		"/home/csg/Desktop/OT_web/web/php/secondPhp.php",
+		"/home/csg/Desktop/OT_web/web/php/helloWorld.php",
+		"/home/csg/Desktop/OT_web/web/CSS_1.html",
+		"/home/csg/Desktop/OT_web/web/test.html",
+		"/home/csg/Desktop/OT_web/web/twitterBootstrap1.html",
+		"/home/csg/Desktop/OT_web/web/opentutorial.html",
+		"/home/csg/Desktop/OT_web/web/js_eventControl.html",
+		"/home/csg/Desktop/OT_web/web/js_alert.html",
+		"/home/csg/Desktop/OT_web/heading.html",
+		"/home/csg/Desktop/OT_web/emmet.html",
+		"/home/csg/Desktop/OT_web/test.html",
+		"/home/git/MyProject/helloworld.html",
+		"/home/csg/Desktop/OT_web/CSS_2.css",
+		"/home/csg/Desktop/OT_web/CSS_1.html",
+		"/.ssh",
+		"/home/csg/Desktop/OT_web/helloworld.html",
+		"/home/csg/Desktop/OT_web/Package Control Messages"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"#\">",
+			"</a>",
+			"</li>",
+			"<li>",
+			"3",
+			"     ",
+			"    ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"     ",
+			"    ",
+			"        </",
+			"    ",
+			"<li",
+			"			<",
+			"li",
+			"<li",
+			"			<",
+			"li",
+			"class",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "number.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

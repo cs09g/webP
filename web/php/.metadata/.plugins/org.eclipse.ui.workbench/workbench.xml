@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="24" version="2.0">
+<workbench progressCount="50" version="2.0">
 <workbenchAdvisor/>
-<window height="744" maximized="true" width="1024" x="0" y="24">
+<window height="744" maximized="true" width="512" x="0" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -32,9 +32,9 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.aptana.editor.php" name="function.php" partName="function.php" path="/home/csg/Desktop/OT_web/web/php/phpStudy/function.php" title="function.php" tooltip="phpStudy/function.php" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/phpStudy/function.php"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="168" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="com.aptana.editor.php" name="mysql_query.php" partName="mysql_query.php" path="/home/csg/Desktop/OT_web/web/php/phpStudy/mysql_query.php" title="mysql_query.php" tooltip="phpStudy/mysql_query.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/phpStudy/mysql_query.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="659" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -49,7 +49,7 @@
 <expanded>
 <category IMemento.internal.id="Errors (1 item)"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
+<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="201" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -62,9 +62,7 @@
 </view>
 <view id="com.aptana.explorer.view" partName="App Explorer">
 <viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled="" activeProject="phpStudy">
-<project name="phpStudy">
-<selection>
-<element path="/phpStudy"/>
+<project name="phpStudy">&#x0A;<selection>&#x0A;<element path="/phpStudy"/>
 </selection>
 </project>
 </viewState>
@@ -142,7 +140,7 @@
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.2" ratioLeft="202" ratioRight="808" relationship="2" relative="left"/>
+<info part="org.eclipse.ui.editorss" ratio="0.21157685" ratioLeft="106" ratioRight="395" relationship="2" relative="left"/>
 <info folder="true" part="terminalArea" ratio="0.7488922" ratioLeft="507" ratioRight="170" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
@@ -177,6 +175,7 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/phpStudy/function.php"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" path="/phpStudy/mysql_query.php"/>
 </editors>
 <item historyLabel="function.php" index="0">
 <position info="not_deleted" x="0" y="0"/>
@@ -187,8 +186,128 @@
 <item historyLabel="function.php" index="0">
 <position info="not_deleted" x="162" y="0"/>
 </item>
-<item active="true" historyLabel="function.php" index="0">
-<position info="not_deleted" x="165" y="0"/>
+<item historyLabel="function.php" index="0">
+<position info="not_deleted" x="168" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1582" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="77" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="590" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="102" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="590" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="141" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="142" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="457" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1483" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1533" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1534" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="464" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="510" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="481" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="482" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="483" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="418" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="419" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="644" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1358" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1345" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1346" y="0"/>
+</item>
+<item historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1323" y="0"/>
+</item>
+<item active="true" historyLabel="mysql_query.php" index="1">
+<position info="not_deleted" x="1324" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -196,12 +315,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="left"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -209,11 +322,13 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@3b1b7fa0"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="mysql_query.php" tooltip="phpStudy/mysql_query.php">
+<persistable path="/phpStudy/mysql_query.php"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.aptana.editor.php" name="function.php" tooltip="phpStudy/function.php">
 <persistable path="/phpStudy/function.php"/>
 </file>
