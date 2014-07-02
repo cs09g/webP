@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection id="6717c68d-482f-4cda-8974-839dc9b6d647" type="workspace">
+<name>phpstudy</name>
+<path>/phpstudy</path>
+</connection>
+<connection id="62a7c779-95ed-4a2d-b9ac-26a0aaedef4c" type="ftp">
+<name>dothome</name>
+<host>112.175.184.36</host>
+<path>/html/</path>
+<login>cs09g</login>
+<passive>true</passive>
+</connection>
+</connections>

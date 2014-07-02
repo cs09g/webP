@@ -1,0 +1,60 @@
+!SESSION 2014-06-28 12:22:34.179 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 12:22:40.403
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-06-28 12:23:34.813 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 12:23:43.435
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-06-28 12:34:59.877 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 12:35:05.879
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-06-28 13:12:46.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 13:12:52.624
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-06-28 13:26:55.501 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 13:26:59.875
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-06-28 13:30:06.801 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  Studio 3
+Command-line arguments:  -os linux -ws gtk -arch x86_64 Studio 3
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-06-28 13:30:11.145
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
